@@ -1,6 +1,8 @@
 tensorflow
+tf-keras
 pandas
 numpy
 matplotlib
 scikit-learn
 seaborn
+sentence-transformers
