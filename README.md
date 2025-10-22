@@ -1,1 +1,1 @@
-Repository for the Deep Learning Final Project. 
+Repository for the Applied Deep Learning Final Project. 
